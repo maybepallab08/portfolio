@@ -1,0 +1,46 @@
+.profile {
+  font-family: "Sacramento", cursive;
+}
+
+body {
+  font-family: Raleway;
+  background-color: #f5eedc;
+  margin: 30px;
+  text-align: center;
+}
+.top-container {
+  text-align: center;
+}
+.profilepic {
+  width: 200px;
+  object-fit: fill;
+  border-radius: 50%;
+  object-fit: fill;
+}
+hr {
+  margin-top: 5%;
+  margin-bottom: 5%;
+  border-width: 1px;
+  border-style: dotted;
+  width: 5%;
+  border-width: 8px;
+  border-top: 0;
+  border-color: darkgray;
+}
+.socmed {
+  height: 25px;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+a:hover {
+  color: burlywood;
+}
+.skillimages {
+  text-align: center;
+  height: 150px;
+}
+span {
+  margin-right: 80px;
+}
